@@ -596,7 +596,7 @@ docking_server:
       footprint_topic: "local_costmap/published_footprint"
       transform_tolerance: 0.1
       projection_time: 5.0
-      simulation_step: 0.1
+      simulation_time_step: 0.1
       dock_collision_threshold: 0.3
 
 loopback_simulator:
